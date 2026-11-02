@@ -148,6 +148,9 @@ namespace Utulek
                 Console.WriteLine(
                     $"ID {z.ID}: {z.Jmeno}; poznámka: {Zobraz(z.Poznamka)}; " +
                     $"datum adopce: {(z.DatumAdopce.HasValue ? z.DatumAdopce.Value.ToString("dd.MM.yyyy") : "-")}");
+                // taky to .HasValue a .Value bude fungovat jenom když tam
+                // ve třídě Zvire.cs budou ty otazníky, ale jde to udělat i jednodušeji,
+                // ale to budeme muset změnit i další věci - prostě to pak vyřešíme
             }
         }
 
