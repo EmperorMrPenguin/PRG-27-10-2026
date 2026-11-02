@@ -4,9 +4,10 @@
     "\\Utulek",
     "\\Utulek\\Utulek",
     "\\Utulek\\Utulek\\Model",
+    "\\Utulek\\Utulek\\Properties",
     "\\Utulek\\Utulek\\Services",
     "\\Utulek\\Utulek\\UI"
   ],
-  "SelectedNode": "\\Utulek\\Utulek\\Model\\Zvire.cs",
+  "SelectedNode": "\\Utulek\\Utulek\\UI\\KonzoleUI.cs",
   "PreviewInSolutionExplorer": false
 }

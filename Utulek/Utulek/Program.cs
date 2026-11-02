@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Security.Policy;
 
 namespace Utulek
 {
@@ -10,6 +6,14 @@ namespace Utulek
     {
         static void Main(string[] args)
         {
+            // Vytvoreni evidence zvirat
+            Evidence evidence = new Evidence();
+
+            // Vytvoreni uzivatelskeho rozhrani
+            KonzoleUI menu = new KonzoleUI(evidence);
+
+            // Spusteni hlavniho menu
+            menu.SpustMenu();
         }
     }
 }
