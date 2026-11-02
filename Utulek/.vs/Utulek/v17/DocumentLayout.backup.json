@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0234FC9C-2005-4957-996F-A90D3BACBA1A}|Utulek\\Utulek.csproj|c:\\users\\marti\\documents\\github\\prg 27 10 2026\\utulek\\utulek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0234FC9C-2005-4957-996F-A90D3BACBA1A}|Utulek\\Utulek.csproj|c:\\users\\marti\\documents\\github\\prg 27 10 2026\\utulek\\utulek\\trida1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0234FC9C-2005-4957-996F-A90D3BACBA1A}|Utulek\\Utulek.csproj|solutionrelative:utulek\\trida1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0234FC9C-2005-4957-996F-A90D3BACBA1A}|Utulek\\Utulek.csproj|C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\utulek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0234FC9C-2005-4957-996F-A90D3BACBA1A}|Utulek\\Utulek.csproj|solutionrelative:utulek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Trida1.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\Trida1.cs",
+              "RelativeDocumentMoniker": "Utulek\\Trida1.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\Trida1.cs",
+              "RelativeToolTip": "Utulek\\Trida1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T13:02:39.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\Program.cs",
               "RelativeDocumentMoniker": "Utulek\\Program.cs",
               "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\Program.cs",
               "RelativeToolTip": "Utulek\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T12:11:03.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T12:11:03.609Z"
             }
           ]
         }
