@@ -18,5 +18,7 @@ namespace Utulek
         public string Poznamka { get; set; }
         public bool Adoptovano { get; set; }
         public DateTime DatumAdopce { get; set; }
+
+        // klidně to změňte
     }
 }
