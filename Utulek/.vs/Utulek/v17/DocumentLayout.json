@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Users\\Tery\\OneDrive\\Dokumenty\\GitHub\\PRG-27-10-2026\\Utulek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0234FC9C-2005-4957-996F-A90D3BACBA1A}|Utulek\\Utulek.csproj|d:\\users\\tery\\onedrive\\dokumenty\\github\\prg-27-10-2026\\utulek\\utulek\\konzeleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0234FC9C-2005-4957-996F-A90D3BACBA1A}|Utulek\\Utulek.csproj|solutionrelative:utulek\\konzeleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0234FC9C-2005-4957-996F-A90D3BACBA1A}|Utulek\\Utulek.csproj|d:\\users\\tery\\onedrive\\dokumenty\\github\\prg-27-10-2026\\utulek\\utulek\\konzoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0234FC9C-2005-4957-996F-A90D3BACBA1A}|Utulek\\Utulek.csproj|solutionrelative:utulek\\konzoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0234FC9C-2005-4957-996F-A90D3BACBA1A}|Utulek\\Utulek.csproj|d:\\users\\tery\\onedrive\\dokumenty\\github\\prg-27-10-2026\\utulek\\utulek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0234FC9C-2005-4957-996F-A90D3BACBA1A}|Utulek\\Utulek.csproj|D:\\Users\\Tery\\OneDrive\\Dokumenty\\GitHub\\PRG-27-10-2026\\Utulek\\utulek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0234FC9C-2005-4957-996F-A90D3BACBA1A}|Utulek\\Utulek.csproj|solutionrelative:utulek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,12 +31,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "KonzeleUI.cs",
-              "DocumentMoniker": "D:\\Users\\Tery\\OneDrive\\Dokumenty\\GitHub\\PRG-27-10-2026\\Utulek\\Utulek\\KonzeleUI.cs",
-              "RelativeDocumentMoniker": "Utulek\\KonzeleUI.cs",
-              "ToolTip": "D:\\Users\\Tery\\OneDrive\\Dokumenty\\GitHub\\PRG-27-10-2026\\Utulek\\Utulek\\KonzeleUI.cs",
-              "RelativeToolTip": "Utulek\\KonzeleUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "KonzoleUI.cs",
+              "DocumentMoniker": "D:\\Users\\Tery\\OneDrive\\Dokumenty\\GitHub\\PRG-27-10-2026\\Utulek\\Utulek\\KonzoleUI.cs",
+              "RelativeDocumentMoniker": "Utulek\\KonzoleUI.cs",
+              "ToolTip": "D:\\Users\\Tery\\OneDrive\\Dokumenty\\GitHub\\PRG-27-10-2026\\Utulek\\Utulek\\KonzoleUI.cs",
+              "RelativeToolTip": "Utulek\\KonzoleUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoBAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-02T13:37:51.268Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Utulek\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T12:11:03.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T12:11:03.609Z"
             }
           ]
         }
