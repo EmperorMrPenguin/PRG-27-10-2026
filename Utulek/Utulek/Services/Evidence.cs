@@ -1,7 +1,5 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using Utulek.Model;
 
 namespace Utulek.Services
@@ -13,9 +11,49 @@ namespace Utulek.Services
 
         public Evidence()
         {
+            NactiVychoziZvirata();
         }
 
-        // Pridani noveho zvirete do evidence
+        private void NactiVychoziZvirata()
+        {
+            PridejZvire(new Zvire
+            {
+                Jmeno = "Alík",
+                Druh = "Pes",
+                Vek = 3,
+                Pohlavi = "Samec",
+                DatumPrijmu = new DateTime(2024, 11, 15),
+                ZdravotniStav = "Zdravý",
+                Poznamka = "Přátelský k dětem",
+                Adoptovano = false
+            });
+
+            PridejZvire(new Zvire
+            {
+                Jmeno = "Micka",
+                Druh = "Kočka",
+                Vek = 2,
+                Pohlavi = "Samice",
+                DatumPrijmu = new DateTime(2025, 1, 10),
+                ZdravotniStav = "Očkovaná",
+                Poznamka = "Klidná povaha",
+                Adoptovano = true,
+                DatumAdopce = new DateTime(2025, 2, 20)
+            });
+
+            PridejZvire(new Zvire
+            {
+                Jmeno = "Ferda",
+                Druh = "Jiné",
+                Vek = 1,
+                Pohlavi = "Samec",
+                DatumPrijmu = new DateTime(2025, 2, 1),
+                ZdravotniStav = "Zdravý",
+                Poznamka = "Zakrslý králík",
+                Adoptovano = false
+            });
+        }
+
         public void PridejZvire(Zvire zvire)
         {
             zvire.ID = dalsiID;
@@ -24,13 +62,11 @@ namespace Utulek.Services
             seznamZvirat.Add(zvire);
         }
 
-        // Vrati seznam vsech zvirat
         public List<Zvire> VsechnaZvirata()
         {
             return seznamZvirat;
         }
 
-        // Vyhledani zvirat podle druhu
         public List<Zvire> FiltrujPodleDruhu(string druh)
         {
             List<Zvire> vysledek = new List<Zvire>();
@@ -46,14 +82,13 @@ namespace Utulek.Services
             return vysledek;
         }
 
-        // Vyhledani zvirat podle jmena
         public List<Zvire> FiltrujPodleJmena(string jmeno)
         {
             List<Zvire> vysledek = new List<Zvire>();
 
             foreach (Zvire zvire in seznamZvirat)
             {
-                if (zvire.Jmeno.Contains(jmeno, StringComparison.OrdinalIgnoreCase))
+                if (zvire.Jmeno.IndexOf(jmeno, StringComparison.OrdinalIgnoreCase) >= 0)
                 {
                     vysledek.Add(zvire);
                 }
@@ -62,7 +97,6 @@ namespace Utulek.Services
             return vysledek;
         }
 
-        // Filtrovani podle veku
         public List<Zvire> FiltrujPodleVeku(int vek, bool mensiNeboRovno)
         {
             List<Zvire> vysledek = new List<Zvire>();
@@ -82,7 +116,6 @@ namespace Utulek.Services
             return vysledek;
         }
 
-        // Oznaceni zvirete jako adoptovane
         public bool OznacAdopci(int id)
         {
             foreach (Zvire zvire in seznamZvirat)
@@ -104,7 +137,6 @@ namespace Utulek.Services
             return false;
         }
 
-        // Uprava udaju zvirete
         public bool UpravZvire(int id, Action<Zvire> uprava)
         {
             foreach (Zvire zvire in seznamZvirat)
@@ -119,7 +151,6 @@ namespace Utulek.Services
             return false;
         }
 
-        // Smazani zvirete z evidence
         public bool SmazZvire(int id)
         {
             foreach (Zvire zvire in seznamZvirat)
@@ -134,13 +165,11 @@ namespace Utulek.Services
             return false;
         }
 
-        // Pocet vsech zvirat
         public int PocetZvirat()
         {
             return seznamZvirat.Count;
         }
 
-        // Pocet adoptovanych zvirat
         public int PocetAdoptovanych()
         {
             int pocet = 0;

@@ -1,4 +1,5 @@
-using System.Security.Policy;
+using Utulek.Services;
+using Utulek.UI;
 
 namespace Utulek
 {
@@ -6,13 +7,8 @@ namespace Utulek
     {
         static void Main(string[] args)
         {
-            // Vytvoreni evidence zvirat
             Evidence evidence = new Evidence();
-
-            // Vytvoreni uzivatelskeho rozhrani
             KonzoleUI menu = new KonzoleUI(evidence);
-
-            // Spusteni hlavniho menu
             menu.SpustMenu();
         }
     }

@@ -4,10 +4,8 @@
     "\\Utulek",
     "\\Utulek\\Utulek",
     "\\Utulek\\Utulek\\Model",
-    "\\Utulek\\Utulek\\Properties",
-    "\\Utulek\\Utulek\\Services",
-    "\\Utulek\\Utulek\\UI"
+    "\\Utulek\\Utulek\\Services"
   ],
-  "SelectedNode": "\\Utulek\\Utulek\\UI\\KonzoleUI.cs",
+  "SelectedNode": "\\Utulek\\Utulek\\Utulek.csproj",
   "PreviewInSolutionExplorer": false
 }

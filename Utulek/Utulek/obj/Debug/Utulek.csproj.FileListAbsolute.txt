@@ -1,0 +1,7 @@
+C:\Users\marti\Documents\GitHub\PRG 27 10 2026\Utulek\Utulek\obj\Debug\Utulek.csproj.AssemblyReference.cache
+C:\Users\marti\Documents\GitHub\PRG 27 10 2026\Utulek\Utulek\obj\Debug\Utulek.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\GitHub\PRG 27 10 2026\Utulek\Utulek\bin\Debug\Utulek.exe.config
+C:\Users\marti\Documents\GitHub\PRG 27 10 2026\Utulek\Utulek\bin\Debug\Utulek.exe
+C:\Users\marti\Documents\GitHub\PRG 27 10 2026\Utulek\Utulek\bin\Debug\Utulek.pdb
+C:\Users\marti\Documents\GitHub\PRG 27 10 2026\Utulek\Utulek\obj\Debug\Utulek.exe
+C:\Users\marti\Documents\GitHub\PRG 27 10 2026\Utulek\Utulek\obj\Debug\Utulek.pdb

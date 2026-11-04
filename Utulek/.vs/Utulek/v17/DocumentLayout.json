@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\Tery\\OneDrive\\Dokumenty\\GitHub\\PRG-27-10-2026\\Utulek\\",
+  "WorkspaceRootPath": "C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0234FC9C-2005-4957-996F-A90D3BACBA1A}|Utulek\\Utulek.csproj|d:\\users\\tery\\onedrive\\dokumenty\\github\\prg-27-10-2026\\utulek\\utulek\\konzoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0234FC9C-2005-4957-996F-A90D3BACBA1A}|Utulek\\Utulek.csproj|solutionrelative:utulek\\konzoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Utulek\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0234FC9C-2005-4957-996F-A90D3BACBA1A}|Utulek\\Utulek.csproj|D:\\Users\\Tery\\OneDrive\\Dokumenty\\GitHub\\PRG-27-10-2026\\Utulek\\utulek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0234FC9C-2005-4957-996F-A90D3BACBA1A}|Utulek\\Utulek.csproj|solutionrelative:utulek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\Utulek.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Utulek\\Utulek.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\Services\\Evidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Utulek\\Services\\Evidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\Model\\Zvire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Utulek\\Model\\Zvire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\UI\\KonzoleUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Utulek\\UI\\KonzoleUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,40 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "KonzoleUI.cs",
-              "DocumentMoniker": "D:\\Users\\Tery\\OneDrive\\Dokumenty\\GitHub\\PRG-27-10-2026\\Utulek\\Utulek\\KonzoleUI.cs",
-              "RelativeDocumentMoniker": "Utulek\\KonzoleUI.cs",
-              "ToolTip": "D:\\Users\\Tery\\OneDrive\\Dokumenty\\GitHub\\PRG-27-10-2026\\Utulek\\Utulek\\KonzoleUI.cs",
-              "RelativeToolTip": "Utulek\\KonzoleUI.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAkwJgAAABTAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\Program.cs",
+              "RelativeDocumentMoniker": "Utulek\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\Program.cs",
+              "RelativeToolTip": "Utulek\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T13:37:51.268Z",
+              "WhenOpened": "2026-11-04T12:27:29.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\Tery\\OneDrive\\Dokumenty\\GitHub\\PRG-27-10-2026\\Utulek\\Utulek\\Program.cs",
-              "RelativeDocumentMoniker": "Utulek\\Program.cs",
-              "ToolTip": "D:\\Users\\Tery\\OneDrive\\Dokumenty\\GitHub\\PRG-27-10-2026\\Utulek\\Utulek\\Program.cs",
-              "RelativeToolTip": "Utulek\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
+              "Title": "Utulek.csproj",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\Utulek.csproj",
+              "RelativeDocumentMoniker": "Utulek\\Utulek.csproj",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\Utulek.csproj",
+              "RelativeToolTip": "Utulek\\Utulek.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-04T12:26:45.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KonzoleUI.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\UI\\KonzoleUI.cs",
+              "RelativeDocumentMoniker": "Utulek\\UI\\KonzoleUI.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\UI\\KonzoleUI.cs",
+              "RelativeToolTip": "Utulek\\UI\\KonzoleUI.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAACwBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T12:11:03.609Z"
+              "WhenOpened": "2026-11-04T12:13:58.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Evidence.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\Services\\Evidence.cs",
+              "RelativeDocumentMoniker": "Utulek\\Services\\Evidence.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\Services\\Evidence.cs",
+              "RelativeToolTip": "Utulek\\Services\\Evidence.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAmwLsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T12:12:44.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zvire.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\Model\\Zvire.cs",
+              "RelativeDocumentMoniker": "Utulek\\Model\\Zvire.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\PRG 27 10 2026\\Utulek\\Utulek\\Model\\Zvire.cs",
+              "RelativeToolTip": "Utulek\\Model\\Zvire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T12:12:40.754Z",
+              "EditorCaption": ""
             }
           ]
         }
