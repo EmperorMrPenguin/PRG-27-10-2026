@@ -1,10 +1,16 @@
 Hierarchie
 Utulek/
+
 ├── Program.cs           // Vstupní bod aplikace (Main) – propojení Evidence a UI
+
 ├── Model/
+
 │   └── Zvire.cs         // Datový model zvířete (vlastnosti zvířete)
+
 ├── Services/
+
 │   └── Evidence.cs      // Aplikační logika, správa List<Zvire>, filtrování a adopce
+
 └── UI/
     └── KonzoleUI.cs     // Uživatelské rozhraní v konzoli, menu, čtení a validace vstupů
 
