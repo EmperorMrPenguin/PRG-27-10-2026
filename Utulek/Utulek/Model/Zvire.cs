@@ -4,9 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-public class Class1
+public class Zvire
 {
-	public Class1()
+	public Zvire()
 	{
-	}
+    public int ID { get; set; }
+    public string Jmeno { get; set; }
+    public string Druh { get; set; }
+    public int Vek { get; set; }
+    public string Pohlavi { get; set; }
+    public bool Adoptovano { get; set; }
+    }
 }
