@@ -14,6 +14,7 @@ namespace Utulek.Services
             NactiVychoziZvirata();
         }
 
+        //přidá základní informace
         private void NactiVychoziZvirata()
         {
             PridejZvire(new Zvire

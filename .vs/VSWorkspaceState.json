@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Utulek",
-    "\\Utulek\\Utulek",
-    "\\Utulek\\Utulek\\Model",
-    "\\Utulek\\Utulek\\Services"
+    ""
   ],
-  "SelectedNode": "\\Utulek\\Utulek\\Utulek.csproj",
+  "SelectedNode": "\\Utulek.sln",
   "PreviewInSolutionExplorer": false
 }

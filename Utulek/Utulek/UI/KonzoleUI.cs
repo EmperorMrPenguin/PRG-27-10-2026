@@ -26,7 +26,7 @@ namespace Utulek.UI
                 Console.WriteLine("2) Vypsat všechna zvířata");
                 Console.WriteLine("3) Vyhledat/ filtrovat");
                 Console.WriteLine("4) Označit adopci");
-                Console.WriteLine("5) Statistiky (volitelné)");
+                Console.WriteLine("5) Statistiky");
                 Console.WriteLine("0) Konec");
                 Console.Write("Volba: ");
 
